@@ -576,9 +576,13 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.about{
+  height: 100vh;
+}
 .about .content h3 {
   font-weight: 600;
   font-size: 26px;
+  
 }
 .missionvission h5{
   margin-top: 15px;
