@@ -460,7 +460,6 @@ p{
 section {
   padding: 20px 0;
   overflow: hidden;
-  height: 100vh;
 }
 
 .section-bg {
@@ -577,7 +576,9 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
-
+.mission{
+  text-align: justify;
+}
 .about .content h3 {
   font-weight: 600;
   font-size: 26px;
@@ -1055,14 +1056,15 @@ text-align: left;
 #Design Studio
 --------------------------------------------------------------*/
 .pdesign{
-  text-align:left;
+  padding: 28px 20px 76px 20px;
+  text-align:justify;
   text-decoration: none;
-  margin-top: 18px;
+  margin: 14px 0;
   font-weight: var(--fw-bold);
 }
 .designstudio{
   margin-top: 8px;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 .section-title h4{
   margin-bottom: 1opx;
