@@ -1645,6 +1645,7 @@ text-align: left;
 
   }
   .section-title h4 {
+    margin-top: 10px;
     margin-bottom: 10px;
   }
 }
