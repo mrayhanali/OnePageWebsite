@@ -576,12 +576,6 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
-@media (max-width: 1920px) {
-  .about{
-    height: 100vh;
-  }
-
-}
 
 .about .content h3 {
   font-weight: 600;
@@ -1628,4 +1622,55 @@ text-align: left;
 .slide:nth-child(10)  {
   background: url('../img/csr.jpg')no-repeat
     center top/cover;
+}
+/* max width 1368 */
+@media (max-width: 1366px) {
+  .section-title {
+    margin-top: 10px;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  
+  .section-title h2 {
+    font-size: 24px;
+    letter-spacing: 1px;
+    font-weight: 800;
+    padding: 8px 14px;
+    margin: 0;
+    background: #e7f1fd;
+    color: #106eea;
+    display: inline-block;
+    text-transform: uppercase;
+    border-radius: 50px;
+
+  }
+  .section-title h4 {
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 1920px) {
+  .section-title {
+    margin-top: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .section-title h2 {
+    font-size: 24px;
+    letter-spacing: 1px;
+    font-weight: 800;
+    padding: 12px 14px;
+    margin: 0;
+    background: #e7f1fd;
+    color: #106eea;
+    display: inline-block;
+    text-transform: uppercase;
+    border-radius: 50px;
+
+  }
+  .section-title h4 {
+    margin-bottom: 20px;
+  }
 }
