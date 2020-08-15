@@ -1623,35 +1623,4 @@ text-align: left;
   background: url('../img/csr.jpg')no-repeat
     center top/cover;
 }
-/* max width 1368 */
-
-@media (max-width: 1920px) {
-  .section{
-    padding: 100px;
-    overflow: hidden;
-  }
-  .section-title {
-    margin-top: 30px;
-    text-align: center;
-    padding-bottom: 80px;
-    margin-bottom: 30px;
-  }
-  
-  .section-title h2 {
-    font-size: 24px;
-    letter-spacing: 1px;
-    font-weight: 800;
-    padding: 6px 12px;
-    margin: 0;
-    background: #e7f1fd;
-    color: #106eea;
-    display: inline-block;
-    text-transform: uppercase;
-    border-radius: 50px;
-
-  }
-  .section-title h4 {
-    margin-top: 50px;
-    margin-bottom: 20px;
-  }
-}
+/* max width 1368 *
