@@ -594,6 +594,12 @@ section {
     display: inline-block;
     text-transform: uppercase;
     border-radius: 50px;
+
+  }
+  .section-title h4 {
+    margin-bottom: 40px;
+
+    
   }
 
 }
