@@ -580,6 +580,16 @@ section {
   font-weight: 600;
   font-size: 26px;
 }
+.missionvission h5{
+  margin-top: 15px;
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.3);
+  padding: 8px;
+  
+}
+.glance{
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.3);
+  padding: 10px;
+}
 
 .about .content ul {
   list-style: none;
@@ -618,9 +628,14 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
 }
+.ataglance{
+ 
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.3);
+}
 .ataglance h4{
   font-size: 24px;
   font-weight: 700;
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.3);
 }
 
 /*--------------------------------------------------------------
