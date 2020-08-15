@@ -577,29 +577,8 @@ section {
 # About
 --------------------------------------------------------------*/
 @media (max-width: 1920px) {
-  .section-title {
-    margin-top: 30px;
-    text-align: center;
-    padding-bottom: 20px;
-  }
-  
-  .section-title h2 {
-    font-size: 24px;
-    letter-spacing: 1px;
-    font-weight: 800;
-    padding: 14px 14px;
-    margin: 0;
-    background: #e7f1fd;
-    color: #106eea;
-    display: inline-block;
-    text-transform: uppercase;
-    border-radius: 50px;
-
-  }
-  .section-title h4 {
-    margin-bottom: 40px;
-
-    
+  .about{
+    height: 100vh;
   }
 
 }
