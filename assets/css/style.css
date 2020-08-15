@@ -1624,31 +1624,6 @@ text-align: left;
     center top/cover;
 }
 /* max width 1368 */
-@media (max-width: 1366px) {
-  .section-title {
-    margin-top: 10px;
-    text-align: center;
-    padding-bottom: 10px;
-  }
-  
-  .section-title h2 {
-    font-size: 24px;
-    letter-spacing: 1px;
-    font-weight: 800;
-    padding: 8px 14px;
-    margin: 0;
-    background: #e7f1fd;
-    color: #106eea;
-    display: inline-block;
-    text-transform: uppercase;
-    border-radius: 50px;
-
-  }
-  .section-title h4 {
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
-}
 
 @media (max-width: 1920px) {
   .section{
