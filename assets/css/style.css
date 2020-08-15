@@ -460,6 +460,7 @@ p{
 section {
   padding: 20px 0;
   overflow: hidden;
+  height: 100vh;
 }
 
 .section-bg {
@@ -492,7 +493,7 @@ section {
 }
 
 .section-title h4 {
-  margin: 5px 0 0 0;
+  margin: 15px 0;
   font-size: 22px;
   font-weight: 600;
 
@@ -1623,4 +1624,3 @@ text-align: left;
   background: url('../img/csr.jpg')no-repeat
     center top/cover;
 }
-/* max width 1368 *
