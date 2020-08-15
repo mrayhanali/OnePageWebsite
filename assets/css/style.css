@@ -1263,7 +1263,7 @@ text-align: left;
 #footer {
   background: #d8d9dd;
   padding: 30px ;
-  color: #d8d9dd;
+  color:#122d99;
   font-size: 14px;
 }
 
@@ -1344,13 +1344,13 @@ text-align: left;
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Roboto", sans-serif;
-  color: #777777;
+  color: #000;
 }
 
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #444444;
+  color: #000;
   position: relative;
   padding-bottom: 12px;
 }
