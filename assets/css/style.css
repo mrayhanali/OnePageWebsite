@@ -1615,7 +1615,7 @@ text-align: left;
 }
 .slide:nth-child(8)  {
   background: url('../img/lab.jpg') no-repeat
-    center center/cover;
+    center top/cover;
 }
 .slide:nth-child(9)  {
   background: url('../img/etp.jpg') no-repeat
