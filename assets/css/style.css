@@ -689,8 +689,10 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients {
+  height: 100vh;
   padding: 15px 0;
   text-align: center;
+
 }
 
 .clients img {
