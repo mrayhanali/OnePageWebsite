@@ -580,12 +580,9 @@ section {
   text-align: justify;
 }
 @media (max-width: 1920px) {
-  #about h2{
-    margin-bottom: 35px;
-  }
-  #about h4{
-    margin-bottom: 35px;
-  }
+ .stabout h2 h4{
+   margin-bottom: 40px;
+ }
 }
 .about .content h3 {
   font-weight: 600;
