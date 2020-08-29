@@ -694,6 +694,9 @@ section {
   text-align: center;
 
 }
+.clientslogo{
+  margin-top: 70px;
+}
 
 .clients img {
   max-width: 45%;
