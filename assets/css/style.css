@@ -584,8 +584,12 @@ section {
     margin-top: 35px;
   }
   .aboutspace {
-    margin-top: 50px;
+    margin-top: 40px;
   }
+
+}
+.mvision{
+  margin: 20px 0;
 }
 .mission{
   text-align: justify;
