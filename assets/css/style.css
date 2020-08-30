@@ -726,7 +726,38 @@ section {
     max-width: 40%;
   }
 }
+@media (min-width: 1600px) {
+  .clients h2 {
+    margin: 45px 0;
+  }
+  .clientsspace{
+    margin: 70px 0;
+  }
+  .team{
+    height: 100vh;
+  }
+  .studiospace{
+    margin: 75px 0;
+    background-color: #24dfe6;
+    padding: 20px;
+  }
+  .designstudio{
+    border-block-start-color: #122d99
+  }
+  /* .serviceprofile{
+  margin: 20PX 0;
+  padding: 10px;
+  }
+  .servicecard{
+    margin: 20px 0;
+    padding: 8px;
+  }
+  */
+  .services{
+    height: 40%;
+  }
 
+}
 /*--------------------------------------------------------------
 # What We Do
 --------------------------------------------------------------*/
