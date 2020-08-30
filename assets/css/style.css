@@ -522,6 +522,7 @@ section {
   margin-top: 134px;
 }
 
+
 @media (max-width: 992px) {
   .breadcrumbs {
     margin-top: 58px;
@@ -753,7 +754,7 @@ section {
     padding: 8px;
   }
   */
-  .services{
+  .servicecard{
     height: 40%;
   }
 
@@ -793,10 +794,20 @@ body {
 .card__content {
   text-align: center;
   position: relative;
-  padding: 15em 5em;
+  padding: 10em 5em;
   transition: transform 3s;
 
   transform-style: preserve-3d;
+}
+@media (max-width: 1080px) {
+  .card__content {
+    text-align: center;
+    position: relative;
+    padding: 2em;
+    transition: transform 3s;
+  
+    transform-style: preserve-3d;
+  }
 }
 
 .card:hover .card__content {
