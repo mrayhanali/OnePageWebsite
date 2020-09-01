@@ -786,6 +786,9 @@ body {
   place-items: center;
   font-family: 'Oswald', sans-serif;
 }
+.servicespace{
+  margin: 10px 0;
+}
 
 .card {
   width: 320px;
@@ -794,16 +797,16 @@ body {
 .card__content {
   text-align: center;
   position: relative;
-  padding: 10em 5em;
+  padding: 9em 5em;
   transition: transform 3s;
 
   transform-style: preserve-3d;
 }
-@media (max-width: 1080px) {
+@media (max-width: 1020px) {
   .card__content {
     text-align: center;
     position: relative;
-    padding: 2em;
+    padding: 1em;
     transition: transform 3s;
   
     transform-style: preserve-3d;
